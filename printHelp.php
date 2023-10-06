@@ -7,4 +7,3 @@ function printHelp(){
  echo implode("\n* ", $commands);
  echo "\nThese commands have to be entered precisely, with no extra spaces. The \"help\" command will re-print this message.\n";
 }
-//this goes bakc to version1.o
